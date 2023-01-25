@@ -1,0 +1,515 @@
+2023-01-25 00:02:59,878 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 00:03:15,462 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 00:03:15,993 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 00:03:20,926 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 00:03:21,231 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 00:03:21,270 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 00:03:30,513 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 00:03:31,937 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 00:03:32,221 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 00:03:38,894 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 00:03:39,277 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:03:39,889 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 00:03:40,175 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:03:40,484 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:03:40,931 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 00:03:41,317 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:04:58,637 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 00:05:08,073 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 00:05:08,384 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 00:05:13,627 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 00:05:13,904 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 00:05:13,923 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 00:05:24,059 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 00:05:24,947 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 00:05:25,507 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 00:05:31,035 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 00:05:31,375 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:05:31,816 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 00:05:32,147 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:05:32,437 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:05:32,838 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 00:05:33,142 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:10:20,369 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 00:10:29,619 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 00:10:29,867 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 00:10:34,697 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 00:10:34,944 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 00:10:34,976 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 00:10:44,494 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 00:10:46,125 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 00:10:46,392 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 00:10:53,382 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 00:10:53,757 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:10:54,111 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 00:10:54,520 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 00:10:54,804 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:10:55,281 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 00:10:55,592 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 00:10:57,859 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 00:11:01,021 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 09:28:27,612 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:28:57,332 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:28:57,738 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:29:03,298 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:29:03,579 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:29:03,606 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:29:13,917 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:29:15,805 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:29:16,134 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:29:21,789 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:29:22,175 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:29:22,589 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:29:22,934 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:29:23,300 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:29:23,748 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:29:24,189 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:30:52,050 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:31:03,563 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:31:03,827 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:31:08,998 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:31:09,266 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:31:09,291 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:31:18,936 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:31:19,826 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:31:20,368 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:31:28,147 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:31:28,486 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:31:28,855 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:31:29,285 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:31:29,561 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:31:30,021 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:31:30,374 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:32:02,394 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:32:12,551 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:32:12,879 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:32:18,196 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:32:18,444 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:32:18,470 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:32:28,423 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:32:29,645 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:32:30,077 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:32:39,627 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:32:40,352 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:32:40,872 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:32:41,197 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:32:41,549 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:32:42,027 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:32:42,359 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:34:16,473 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:34:31,782 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:34:33,248 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:34:39,778 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:34:40,221 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:34:40,362 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:34:55,093 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:34:56,519 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:34:57,063 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:35:04,697 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:35:05,020 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:35:05,669 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:35:05,966 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:35:06,349 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:35:06,750 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:35:07,099 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:36:57,672 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:37:16,765 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:37:17,535 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:37:23,408 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:37:23,777 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:37:23,871 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:37:42,044 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:37:44,057 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:37:44,654 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:37:50,897 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:37:51,317 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:37:51,789 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:37:52,177 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:37:52,531 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:37:53,158 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:37:53,532 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:38:39,155 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:38:54,560 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:38:55,239 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:39:01,375 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:39:01,677 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:39:01,787 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:39:16,631 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:39:18,403 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:39:18,938 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:39:25,427 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:39:26,132 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:39:26,673 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:39:26,956 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:39:27,347 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:39:27,977 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:39:28,392 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:40:53,736 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 09:40:59,508 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 09:41:15,928 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:41:28,594 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:41:28,847 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:41:32,959 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:41:33,251 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:41:33,279 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:41:43,504 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:41:45,028 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:41:45,300 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:41:51,137 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:41:51,498 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:41:51,970 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:41:52,266 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:41:52,639 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:41:53,077 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:41:53,387 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:41:57,431 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 09:42:00,605 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 09:54:06,050 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:54:19,593 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:54:19,922 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:54:24,900 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:54:25,159 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:54:25,292 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:54:35,533 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:54:36,929 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:54:37,220 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:54:42,351 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:54:42,684 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:54:43,183 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:54:43,486 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:54:43,873 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:54:44,275 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:54:44,575 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:54:48,569 [main] FATAL com.baseclasses.ControlActions - 1
+2023-01-25 09:54:48,572 [main] FATAL com.baseclasses.ControlActions - null
+2023-01-25 09:54:49,101 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 09:54:52,192 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 09:55:44,697 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:55:55,586 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:55:56,064 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:55:59,938 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:56:00,394 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:56:00,426 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:56:16,186 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:56:18,045 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:56:18,438 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:56:24,682 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:56:25,027 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:56:25,482 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:56:25,997 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:56:26,345 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:56:26,791 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:56:27,123 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:57:02,160 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 09:57:05,870 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 09:58:49,933 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 09:59:02,025 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 09:59:02,297 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 09:59:08,241 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 09:59:08,489 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 09:59:08,614 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 09:59:22,211 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 09:59:25,167 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 09:59:25,945 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 09:59:35,260 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 09:59:35,697 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:59:36,559 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 09:59:37,113 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 09:59:37,439 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 09:59:37,954 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 09:59:38,302 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:00:10,866 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:00:11,512 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:00:11,820 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:00:14,448 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:00:21,103 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:03:05,341 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:03:25,039 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:03:25,848 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:03:31,649 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:03:31,908 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:03:32,068 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:03:44,292 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:03:47,417 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:03:48,165 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:03:56,279 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:03:56,591 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:03:57,152 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:03:57,761 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:03:58,106 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:03:58,571 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:03:58,908 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:04:24,418 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:04:24,813 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:04:25,132 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:04:27,678 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:04:32,521 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:07:18,256 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:07:39,845 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:07:40,938 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:07:47,831 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:07:48,072 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:07:48,388 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:07:59,363 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:08:00,689 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:08:01,224 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:08:09,663 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:08:10,057 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:08:10,932 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:08:11,435 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:08:12,164 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:08:12,896 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:08:13,344 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:08:17,935 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:08:22,796 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:09:24,811 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:09:38,619 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:09:38,901 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:09:43,857 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:09:44,117 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:09:44,141 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:09:59,330 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:10:01,361 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:10:01,706 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:10:09,748 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:10:10,151 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:10:10,893 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:10:11,305 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:10:11,772 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:10:12,287 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:10:12,805 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:10:43,776 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:10:49,463 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:11:33,670 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:11:54,148 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:11:55,350 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:12:03,304 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:12:03,562 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:12:03,618 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:12:17,416 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:12:19,596 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:12:20,276 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:12:25,666 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:12:26,717 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:12:27,781 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:12:28,313 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:12:28,791 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:12:29,457 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:12:29,926 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:13:06,121 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:13:10,626 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:14:50,106 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:15:02,686 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:15:02,987 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:15:07,112 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:15:07,375 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:15:07,398 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:15:17,663 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:15:19,142 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:15:19,574 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:15:27,185 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:15:27,646 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:15:28,338 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:15:28,813 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:15:29,152 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:15:29,692 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:15:30,095 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:16:05,037 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:16:08,142 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:19:27,482 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:19:37,633 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:19:37,924 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:20:15,657 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:20:25,077 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:20:25,334 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:21:14,010 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:21:25,965 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:21:26,194 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:21:31,013 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:21:31,256 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:21:31,283 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:21:41,200 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:21:43,052 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:21:43,623 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:21:49,128 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:21:49,626 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:21:50,052 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:21:50,451 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:21:50,878 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:21:51,398 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:21:51,763 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:21:56,073 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:21:56,404 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:21:56,804 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:21:59,457 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:22:04,044 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:23:36,515 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:23:48,139 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:23:48,392 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:23:54,211 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:23:54,468 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:23:54,493 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:24:09,709 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:24:11,307 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:24:11,668 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:24:18,654 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:24:19,064 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:24:19,549 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:24:19,950 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:24:20,673 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:24:21,463 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:24:21,833 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:24:26,298 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:24:26,683 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:24:26,995 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:24:29,477 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:24:34,046 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:27:03,391 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:27:44,925 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:28:05,781 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:28:06,138 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:28:10,774 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:28:11,167 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:28:11,207 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:28:42,033 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:28:43,980 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:28:44,442 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:28:50,342 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:28:50,725 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:28:51,230 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:28:51,558 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:28:51,886 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:28:52,652 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:28:53,096 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:28:57,533 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:28:57,909 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:28:58,280 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:29:00,704 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:29:06,921 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:30:08,769 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:30:26,408 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:30:26,972 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:30:33,093 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:30:33,415 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:30:33,453 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:30:46,797 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:30:48,604 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:30:48,949 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:30:54,774 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:30:55,168 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:30:55,580 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:30:55,975 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:30:56,300 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:30:56,857 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:30:57,238 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:30:57,490 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from left side is 288 pixels
+2023-01-25 10:30:57,491 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from top side is 138 pixels
+2023-01-25 10:31:01,658 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:31:02,061 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:31:02,603 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:31:05,039 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:31:09,593 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:43:58,941 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:44:15,784 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:44:16,264 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:44:21,565 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:44:21,900 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:44:21,931 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:44:33,688 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:44:35,683 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:44:36,117 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:44:45,760 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:44:46,213 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:44:46,839 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:44:47,406 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:44:47,973 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:44:48,515 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:44:48,975 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:44:49,266 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from left side is 288 pixels
+2023-01-25 10:44:49,266 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from top side is 138 pixels
+2023-01-25 10:44:53,588 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:44:54,066 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:44:54,535 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:44:57,128 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:45:04,073 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 10:53:01,125 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 10:53:12,973 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 10:53:13,316 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 10:53:17,849 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 10:53:18,098 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 10:53:18,117 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 10:53:28,246 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 10:53:29,775 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 10:53:30,075 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 10:53:34,620 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 10:53:35,113 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:53:35,576 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 10:53:35,890 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 10:53:36,208 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:53:36,704 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 10:53:37,082 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 10:53:37,345 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from left side is 288 pixels
+2023-01-25 10:53:37,345 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from top side is 138 pixels
+2023-01-25 10:53:41,094 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from left side is 575 pixels
+2023-01-25 10:53:41,094 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from top side is 129 pixels
+2023-01-25 10:53:41,694 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 10:53:41,976 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 10:53:42,460 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 10:53:44,926 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 10:53:48,618 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 11:01:35,215 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 11:01:50,010 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 11:01:50,332 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 11:01:56,034 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 11:01:56,279 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 11:01:56,304 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 11:02:06,504 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 11:02:07,935 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 11:02:08,195 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 11:02:13,122 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 11:02:13,405 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 11:02:14,045 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 11:02:14,323 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 11:02:14,610 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 11:02:15,526 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 11:02:15,826 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 11:02:16,072 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from left side is 288 pixels
+2023-01-25 11:02:16,072 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from top side is 138 pixels
+2023-01-25 11:02:19,854 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from left side is 575 pixels
+2023-01-25 11:02:19,854 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from top side is 129 pixels
+2023-01-25 11:02:20,410 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 11:02:20,694 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 11:02:21,050 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 11:02:23,336 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 11:02:26,493 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 11:02:30,179 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout button
+2023-01-25 11:02:37,779 [main] INFO  com.pageclasses.TrelloPageClass - STEP : logout successfully.
+2023-01-25 11:14:54,725 [main] INFO  com.pageclasses.TrelloPageClass - STEP : TrelloPage locators loaded
+2023-01-25 11:15:11,182 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered username - poojavaidya777@gmail.com
+2023-01-25 11:15:11,550 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on continue button
+2023-01-25 11:15:17,053 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered password - Pooja1234#
+2023-01-25 11:15:17,342 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on login button
+2023-01-25 11:15:17,375 [main] INFO  com.pageclasses.TrelloPageClass - STEP :- Page Title is Log in to continue - Log in with Atlassian account
+2023-01-25 11:15:27,846 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create new board
+2023-01-25 11:15:28,883 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered board title - pooja123
+2023-01-25 11:15:29,226 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on create board submit button
+2023-01-25 11:15:34,317 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - A
+2023-01-25 11:15:34,645 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 11:15:35,022 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered List name - B
+2023-01-25 11:15:35,455 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add list button
+2023-01-25 11:15:35,810 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 11:15:36,170 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Entered Card name - C
+2023-01-25 11:15:36,458 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Add card button
+2023-01-25 11:15:36,737 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from left side is 288 pixels
+2023-01-25 11:15:36,738 [main] INFO  com.baseclasses.ControlActions - Position of the webelement from top side is 138 pixels
+2023-01-25 11:15:40,244 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Drag and drop performed for cardname  C
+2023-01-25 11:15:40,554 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from left side is 575 pixels
+2023-01-25 11:15:40,555 [main] INFO  com.pageclasses.TrelloPageClass - Position of the webelement from top side is 129 pixels
+2023-01-25 11:15:41,279 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Three dots of board
+2023-01-25 11:15:41,590 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close board
+2023-01-25 11:15:41,925 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on close button
+2023-01-25 11:15:44,208 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on open menu bar
+2023-01-25 11:15:46,983 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout
+2023-01-25 11:15:48,324 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Clicked on Logout button
+2023-01-25 11:15:57,361 [main] INFO  com.pageclasses.TrelloPageClass - STEP : logout successfully.
+2023-01-25 11:15:58,529 [main] INFO  com.pageclasses.TrelloPageClass - STEP : Browser closed
